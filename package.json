@@ -1,1 +1,10 @@
-
+{
+  "name": "eagleware",
+  "version": "1.0.0",
+  "scripts": {
+    "build": "vite build"
+  },
+  "dependencies": {
+    "vite": "^2.0.0"
+  }
+}
